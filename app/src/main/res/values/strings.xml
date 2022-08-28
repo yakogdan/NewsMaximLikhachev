@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">News Maxim Likhachev</string>
+    <string name="my_news">My News</string>
+    <string name="popular_news">Popular news</string>
+    <string name="icon_heart">icon heart</string>
+    <string name="icon_share">icon share</string>
 </resources>
