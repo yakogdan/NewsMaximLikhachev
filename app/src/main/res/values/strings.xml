@@ -4,4 +4,6 @@
     <string name="popular_news">Popular news</string>
     <string name="icon_heart">icon heart</string>
     <string name="icon_share">icon share</string>
+    <string name="search">Search</string>
+    <string name="musk_invited">Musk invited</string>
 </resources>
